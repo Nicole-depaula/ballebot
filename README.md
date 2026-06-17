@@ -1,3 +1,3 @@
 # ballebot
-meu primeiro contato com git e hithub
+meu primeiro contato com git e github
 
